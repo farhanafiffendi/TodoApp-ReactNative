@@ -66,7 +66,7 @@ const Home = () => {
     };
 
     return (
-        <View style={{ flex: 1 }}>
+        <View style={{ flex: 1, backgroundColor: 'black' }}>
             <View style={styles.formContainer}>
                 <TextInput
                     style={styles.input}
